@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This page can be viewed at https://coltonwilson.com/bootcamp.challenge1/. By right clicking on the page the updated semantic HTML source code can be reviewed with notes. 
+This page can be viewed at https://coltonwilson.com/HTML-CSS-refactor/. By right clicking on the page the updated semantic HTML source code can be reviewed with notes. 
 
 ## Credits
 
